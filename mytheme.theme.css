@@ -1,0 +1,9 @@
+/**
+ * @name xzern-theme
+ * @author kicooxy
+ * @description for my friends
+ * @version 1.0.0
+ */
+:root {
+    --background-tertiary: #333333; /* Темно-серый цвет VSCode */
+}
